@@ -1,0 +1,26 @@
+[
+    {
+        "lake_nature": "Open",
+        "predicted_lake_nature": "Conservation"
+    },
+    {
+        "lake_nature": "Conservation",
+        "predicted_lake_nature": "Conservation"
+    },
+    {
+        "lake_nature": "Conservation",
+        "predicted_lake_nature": "Conservation"
+    },
+    {
+        "lake_nature": "Conservation",
+        "predicted_lake_nature": "Conservation"
+    },
+    {
+        "lake_nature": "Conservation",
+        "predicted_lake_nature": "Conservation"
+    },
+    {
+        "lake_nature": "Conservation",
+        "predicted_lake_nature": "Conservation"
+    }
+]
