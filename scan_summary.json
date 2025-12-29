@@ -1,0 +1,25 @@
+{
+    "rows": 6,
+    "columns": [
+        "zone_number",
+        "general_catch_and_possession_restriction",
+        "general_catch_and_possession_restriction_french",
+        "bait_restriction",
+        "bait_restriction_french",
+        "gear_restriction",
+        "gear_restriction_french",
+        "effective_date",
+        "expiry_date"
+    ],
+    "null_ratio": {
+        "zone_number": 0.0,
+        "general_catch_and_possession_restriction": 0.167,
+        "general_catch_and_possession_restriction_french": 0.167,
+        "bait_restriction": 0.167,
+        "bait_restriction_french": 0.167,
+        "gear_restriction": 0.833,
+        "gear_restriction_french": 0.833,
+        "effective_date": 0.0,
+        "expiry_date": 0.0
+    }
+}
