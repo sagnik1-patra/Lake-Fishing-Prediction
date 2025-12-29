@@ -1,0 +1,15 @@
+derived_logic:
+- Restricted if ban/prohibit keywords
+- Conservation if protected keywords
+- Seasonal if date ranges
+- Else Open
+input_features:
+- general_catch_and_possession_restriction
+- general_catch_and_possession_restriction_french
+- bait_restriction
+- bait_restriction_french
+- gear_restriction
+- gear_restriction_french
+- effective_date
+- expiry_date
+target: lake_nature
