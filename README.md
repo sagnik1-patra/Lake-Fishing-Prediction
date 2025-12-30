@@ -1,5 +1,5 @@
 🐟 Lake Fishing Prediction System.
-Hybrid AIS + CSA Optimized Machine Learning Model
+Hybrid AIS + CSA Optimized Machine Learning Model,
 📌 Project Overview:
 
 Fishing activities in lakes are highly regulated to protect ecosystems, ensure sustainability, and support fisheries and tourism. These regulations vary by season, conservation status, and restrictions, making manual interpretation difficult.
